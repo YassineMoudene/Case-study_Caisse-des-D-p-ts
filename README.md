@@ -1,1 +1,9 @@
-# Case-study_Caisse-des-D-p-ts
+# Case-study_Caisse-des-Dépots
+
+Among the pension schemes managed by the Caisse des Dépôts, the CNRACL stands out as the largest basic pension scheme in terms of the number of contributors, pensioners, and the amount of pensions paid. The management challenges of this scheme are particularly significant. Forecasts and other projections of the scheme play a crucial role in its management, as they help identify challenges and examine the impact of past reforms or future measures. These projections primarily rely on the scheme's management data (administrative information about individuals, career data, etc.) provided during employer declarations. However, other sources of data may complement this information.
+
+The quality of the transmitted, retrieved, and processed data is therefore a particularly important issue for the Directorate of Studies and Statistics, responsible for conducting the projections. Furthermore, the CNRACL's pension projection model is a microsimulation model named Canopée, which simulates individual trajectories rather than operating at an aggregated level. In this regard, it is essential to have, for each person in the model (individuals present in the initial workforce - contributors and pensioners - or projected), their characteristics. Thus, for each selected variable, it is necessary to have the desired information or, alternatively, be able to assign it using the most precise completion or estimation based on historical data or the study of other individuals.
+
+The CNRACL manages individuals affiliated with the local civil service (FPT) as well as those affiliated with the hospital civil service (FPH). Other civil servants on secondment in either of these entities, originating from the central civil service (FPE) or other administrations, may also be present in the workforce and, consequently, in the data.
+
+Each civil servant belongs to a body or employment framework classified into categories A, B, or C. Within this body or employment framework, they hold a grade. The sectors, in turn, bring together the employment frameworks/bodies in the same sector of activity.
